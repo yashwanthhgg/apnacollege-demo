@@ -2,5 +2,4 @@
 </br>
 This is my first repo
 </br>
-Author - yashwanth22
-
+Author - Yashwanth
